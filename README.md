@@ -1,6 +1,6 @@
 # Social Acceptability in HCI
 
-This is an accompanying repository to the ACM CHI 2020 paper **"Social Acceptability in HCI: A Survey of Methods, Measures, and Design Strategies"**. by Marion Koelle, Swamy Ananthanarayan, and Susanne Boll. 
+This is an accompanying repository to the ACM CHI 2020 paper **"Social Acceptability in HCI: A Survey of Methods, Measures, and Design Strategies"** by Marion Koelle, Swamy Ananthanarayan, and Susanne Boll. 
 
 ## Analysis
 
