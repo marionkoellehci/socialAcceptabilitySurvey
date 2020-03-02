@@ -4,7 +4,7 @@ This is an accompanying repository to the ACM CHI 2020 paper **"Social Acceptabi
 
 ## Analysis
 
-We anaylzed current research practices around social acceptability in Human-Computer Interaction (HCI). For the CHI 2020 paper, we considered works between 2000 and 2018. In the future, we aim to extend, and continously update the tagged data set to include 2019 onwards.
+We anaylzed current research practices around social acceptability in Human-Computer Interaction (HCI). For the CHI 2020 paper, we considered works between 2000 and 2018. In the future, we aim to extend, and continously update the tagged data set to also include papers from 2019 onwards.
 
 ### Inclusion and Exclusion Criteria
 
