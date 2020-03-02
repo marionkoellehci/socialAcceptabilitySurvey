@@ -15,7 +15,7 @@ The analysis (and tagged dataset) comprises papers that meet the following inclu
 
 ### Tagging Scheme
 
-We provide information on the tagging scheme at https://github.com/marionkoellehci/socialAcceptabilitySurvey/wiki/Dataset.
+We provide information on the tagging scheme at https://github.com/marionkoellehci/socialAcceptabilitySurvey/wiki/Dataset. The tagging scheme does not cover all aspects analyzed in the 2020 CHI paper. It mostly focuses on research methods, and aims to map future changes in the choice of methods over an extended period of time.
 
 ### Analyzed Papers as Tagged Dataset
 
