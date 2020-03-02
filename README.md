@@ -19,8 +19,8 @@ We provide information on the tagging scheme at https://github.com/marionkoelleh
 
 We provide the set of analyzed papers as tagged dataset, following the example of Frederik Brudy's [Cross-device Taxonomy Dataset](https://github.com/frederikbrudy/cross-device-taxonomy/); it can be used along with [PaperTag](https://github.com/christianholz/papertag/).
 
-All bibtex data is located at `data/bibtex` and ordered by year. The corresponding tags (one file per paper) are located at
-`data/tags`.
+All bibtex data is located at `data/bibtex` and organized into one file for works comprised by the 2020 CHI paper, and one including continous updates. The corresponding tags (one file per paper) are located at
+`data/tags`. So far, not all aspects covered by the CHI 2020 paper are included as tags. Tags currently cover methods and measures; Design strategies might be added at a later point.
 
 ## Contact
 
