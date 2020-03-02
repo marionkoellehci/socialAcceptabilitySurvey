@@ -1,0 +1,16 @@
+{
+"year":"2014",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"around-device gestures",
+"study_type":"field experiment",
+"study_setting":"online; field; lab",
+"study_environment":"shopping mall",
+"study_stimulus":"demostration",
+"demonstration_type":"researcher; hands-on",
+"measure_types":"subjective; quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"multi-item",
+"questionnaire":"audience_and_location; self-defined",
+"perspective":"user; spectator"
+}

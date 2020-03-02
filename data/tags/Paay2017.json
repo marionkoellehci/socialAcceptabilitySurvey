@@ -1,0 +1,16 @@
+{
+"year":"2017",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"public displays",
+"study_type":"field experiment",
+"study_setting":"online; field; lab",
+"study_environment":"university cafeteria",
+"study_stimulus":"prototype; demostration",
+"demonstration_type":"peers; hands-on",
+"measure_types":"subjective; qualitative",
+"measure":"interview",
+"questionnaire_type":"open-ended",
+"questionnaire":"self-defined",
+"perspective": "user; spectator"
+}

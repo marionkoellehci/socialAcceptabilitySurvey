@@ -1,0 +1,16 @@
+{
+"year":"2018",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"body-worn cameras; gestural interaction",
+"study_type":"survey; elicitation study",
+"study_setting":"online",
+"study_environment":"",
+"study_stimulus":"animation",
+"demonstration_type":"none",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"single-item",
+"questionnaire":"self-defined",
+"perspective": "user; spectator"
+}

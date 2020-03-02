@@ -1,0 +1,16 @@
+{
+"year":"2016",
+"paper_type":"paper",
+"contribution_type":"artifact",
+"use_cases":"pervasive gaming",
+"study_type":"lab experiment; field experiment",
+"study_setting":"lab, field",
+"study_environment":"lab, on-campus walking between buildings",
+"study_stimulus":"prototype; demonstration",
+"demonstration_type":"peers; hands-on",
+"measure_types":"subjective; quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"single-item",
+"questionnaire":"self-defined",
+"perspective": "user"
+}

@@ -1,0 +1,16 @@
+{
+"year":"2018",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"smart glasses; multimodal input",
+"study_type":"field experiment",
+"study_setting":"field",
+"study_environment":"",
+"study_stimulus":"video; prototype; demonstration",
+"demonstration_type":"researcher; hands-on",
+"measure_types":"subjective; quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"multi-item",
+"questionnaire":"audience-and-location",
+"perspective": "user; spectator"
+}

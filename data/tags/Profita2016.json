@@ -1,0 +1,16 @@
+{
+"year":"2016",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"smart glasses use by the visually impaired",
+"study_type":"survey",
+"study_setting":"online; field; lab",
+"study_environment":"",
+"study_stimulus":"video",
+"demonstration_type":"",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"multi-item",
+"questionnaire":"interaction-user-device; self-defined",
+"perspective": "spectator"
+}

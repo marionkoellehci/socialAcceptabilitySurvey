@@ -1,0 +1,16 @@
+{
+"year":"2015",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"smart glasses; everyday usage",
+"study_type":"field survey",
+"study_setting":"online; field; lab",
+"study_environment":"various",
+"study_stimulus":"prototype; demonstration",
+"demonstration_type":"hands-on",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"single-item",
+"questionnaire":"self-defined",
+"perspective": "user; spectator"
+}

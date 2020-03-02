@@ -1,0 +1,16 @@
+{
+"year":"2013",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"textile on-body input",
+"study_type":"survey",
+"study_setting":"online",
+"study_environment":"",
+"study_stimulus":"video; demonstration",
+"demonstration_type":"researcher",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"multi-item; open-ended",
+"questionnaire":"audience-and-location; self-defined",
+"perspective": "undefined"
+}

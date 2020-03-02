@@ -1,0 +1,16 @@
+{
+"year":"2004",
+"paper_type":"journal article",
+"contribution_type":"empirical",
+"use_cases":"mobile phone usage in public transport",
+"study_type":"field experiment",
+"study_setting":"field",
+"study_environment":"bus station; train",
+"study_stimulus":"demostration",
+"demonstration_type":"researcher",
+"measure_types":"subjective; quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"multi-item",
+"questionnaire":"self-defined",
+"perspective": "spectator"
+}

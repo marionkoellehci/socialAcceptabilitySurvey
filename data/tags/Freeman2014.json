@@ -1,0 +1,16 @@
+{
+"year":"2014",
+"paper_type":"extended abstract",
+"contribution_type":"empirical",
+"use_cases":"above-device gestural input",
+"study_type":"survey",
+"study_setting":"online",
+"study_environment":"",
+"study_stimulus":"video",
+"demonstration_type":"none",
+"measure_types":"subjective;quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"multi-item",
+"questionnaire":"audience-and-location",
+"perspective": "undefined"
+}

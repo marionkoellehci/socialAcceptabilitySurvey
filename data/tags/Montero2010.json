@@ -1,0 +1,16 @@
+{
+"year":"2010",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"gestural interaction",
+"study_type":"focus group",
+"study_setting":"lab",
+"study_environment":"",
+"study_stimulus":"video",
+"demonstration_type":"none",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"multi-item; open-ended",
+"questionnaire":"self-defined",
+"perspective": "user; spectator"
+}

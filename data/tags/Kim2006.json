@@ -1,0 +1,16 @@
+{
+"year":"2006",
+"paper_type":"paper",
+"contribution_type":"artifact",
+"use_cases":"wrist keyboard",
+"study_type":"lab experiment",
+"study_setting":"lab",
+"study_environment":"",
+"study_stimulus":"prototype; demostration",
+"demonstration_type":"hands-on",
+"measure_types":"subjective; quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"single-item",
+"questionnaire":"self-defined",
+"perspective": "undefined"
+}

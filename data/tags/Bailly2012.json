@@ -1,0 +1,16 @@
+{
+"year":"2012",
+"paper_type":"paper",
+"contribution_type":"artifact",
+"use_cases":"wearable sensing; body-worn cameras",
+"study_type":"lab experiment",
+"study_setting":"online; field; lab",
+"study_environment":"",
+"study_stimulus":"video; prototype; demonstration",
+"demonstration_type":"hands-on",
+"measure_types":"subjective; quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"multi-item",
+"questionnaire":"audience-and-location",
+"perspective": "user"
+}

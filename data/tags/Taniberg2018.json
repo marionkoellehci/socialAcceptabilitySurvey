@@ -1,0 +1,16 @@
+{
+"year":"2018",
+"paper_type":"extended abstract",
+"contribution_type":"empirical",
+"use_cases":"home entertainment; gestural input",
+"study_type":"lab experiment",
+"study_setting":"lab",
+"study_environment":"simulated livingroom context",
+"study_stimulus":"prototype; demostration",
+"demonstration_type":"peers; hands-on",
+"measure_types":"subjective; quantitative",
+"measure":"questionnairew",
+"questionnaire_type":"multi-item",
+"questionnaire":"self-defined",
+"perspective": "user; spectator"
+}

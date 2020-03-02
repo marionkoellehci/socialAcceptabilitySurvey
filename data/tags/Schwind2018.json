@@ -1,0 +1,16 @@
+{
+"year":"2018",
+"paper_type":"extended abstract",
+"contribution_type":"empirical",
+"use_cases":"Virtual reality headset usage in social context",
+"study_type":"survey",
+"study_setting":"online",
+"study_environment":"",
+"study_stimulus":"still images",
+"demonstration_type":"researcher; peers; hands-on; none",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"multi-item; open-ended",
+"questionnaire":"interaction-user-device",
+"perspective": "spectator"
+}

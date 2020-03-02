@@ -1,0 +1,16 @@
+{
+"year":"2007",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"gestural interaction",
+"study_type":"survey",
+"study_setting":"online",
+"study_environment":"",
+"study_stimulus":"video",
+"demonstration_type":"researcher; peers; hands-on; none",
+"measure_types":"subjective; quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"multiple choice",
+"questionnaire":"self-defined",
+"perspective": "user"
+}

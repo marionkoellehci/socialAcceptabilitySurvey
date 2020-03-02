@@ -1,0 +1,16 @@
+{
+"year":"2013",
+"paper_type":"paper",
+"contribution_type":"artifact",
+"use_cases":"gestural interaction",
+"study_type":"lab experiment",
+"study_setting":"lab",
+"study_environment":"",
+"study_stimulus":"video; prototype; demostration",
+"demonstration_type":"hands-on",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"multi-item; open-ended",
+"questionnaire":"audience-and-location; self-defined",
+"perspective": "user"
+}

@@ -1,0 +1,16 @@
+{
+"year":"2011",
+"paper_type":"paper",
+"contribution_type":"artifact",
+"use_cases":"textile input",
+"study_type":"lab experiment",
+"study_setting":"lab",
+"study_environment":"lab",
+"study_stimulus":"prototype; demostration",
+"demonstration_type":"hands-on",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"single-item",
+"questionnaire":"self-defined",
+"perspective": "user"
+}

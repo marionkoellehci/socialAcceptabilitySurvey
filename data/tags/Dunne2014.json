@@ -1,0 +1,16 @@
+{
+"year":"2014",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"on-body input; interactive garments",
+"study_type":"survey",
+"study_setting":"online",
+"study_environment":"",
+"study_stimulus":"video",
+"demonstration_type":"none",
+"measure_types":"subjective; qualitative",
+"measure":"inteview",
+"questionnaire_type":"open-ended",
+"questionnaire":"self-defined",
+"perspective": "user"
+}

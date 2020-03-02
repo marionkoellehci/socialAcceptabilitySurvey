@@ -1,0 +1,16 @@
+{
+"year":"2017",
+"paper_type":"paper",
+"contribution_type":"artifact",
+"use_cases":"micro interactions; on-body input; assistive devices",
+"study_type":"lab experiment",
+"study_setting":"online",
+"study_environment":"",
+"study_stimulus":"prototype; demostration",
+"demonstration_type":"hands-on",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"multi-item; open-ended",
+"questionnaire":"self-defined",
+"perspective": "user"
+}

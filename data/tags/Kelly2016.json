@@ -1,0 +1,16 @@
+{
+"year":"2016",
+"paper_type":"extended abstract",
+"contribution_type":"method",
+"use_cases":"wearables",
+"study_type":"survey",
+"study_setting":"online",
+"study_environment":"",
+"study_stimulus":"none",
+"demonstration_type":"none",
+"measure_types":"subjective; quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"multi-item",
+"questionnaire":"WEAR-scale",
+"perspective": "undefined"
+}

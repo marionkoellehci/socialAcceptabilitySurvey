@@ -1,0 +1,16 @@
+{
+"year":"2014",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"gestural input",
+"study_type":"lab experiment; elicitation study",
+"study_setting":"lab",
+"study_environment":"",
+"study_stimulus":"video; demostration",
+"demonstration_type":"hands-on",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"multi-item",
+"questionnaire":"audience-and-location; self-defined",
+"perspective":"user"
+}

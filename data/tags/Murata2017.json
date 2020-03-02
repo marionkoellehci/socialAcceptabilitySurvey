@@ -1,0 +1,16 @@
+{
+"year":"2017",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"cyborgs",
+"study_type":"survey",
+"study_setting":"online",
+"study_environment":"",
+"study_stimulus":"none",
+"demonstration_type":"none",
+"measure_types":"subjective; quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"multi-item",
+"questionnaire":"self-defined",
+"perspective": "undefined"
+}

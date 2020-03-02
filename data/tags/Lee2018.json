@@ -1,0 +1,16 @@
+{
+"year":"2018",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"hand-to-face input",
+"study_type":"field experiment; elicitation study",
+"study_setting":"field",
+"study_environment":"coffee shop",
+"study_stimulus":"video; animation; still images; prototype; demostration; none",
+"demonstration_type":"researcher; peers; hands-on; none",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"multi-item; open-ended",
+"questionnaire":"audience-and-location; self-defined",
+"perspective": "user; spectator"
+}

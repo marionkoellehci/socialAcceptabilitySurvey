@@ -1,0 +1,16 @@
+{
+"year":"2017",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"smart glasses",
+"study_type":"survey",
+"study_setting":"lab",
+"study_environment":"lab",
+"study_stimulus":"still images",
+"demonstration_type":"none",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire",
+"questionnaire_type":"semantic differential",
+"questionnaire":"self-defined",
+"perspective": "user; spectator"
+}

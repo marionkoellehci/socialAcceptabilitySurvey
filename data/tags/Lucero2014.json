@@ -1,0 +1,16 @@
+{
+"year":"2014",
+"paper_type":"paper",
+"contribution_type":"artifact",
+"use_cases":"smart glasses",
+"study_type":"field experiment",
+"study_setting":"online; field; lab",
+"study_environment":"city center",
+"study_stimulus":"prototype; demostration",
+"demonstration_type":"hands-on; none",
+"measure_types":"subjective; qualitative",
+"measure":"interview",
+"questionnaire_type":"open-ended",
+"questionnaire":"self-defined",
+"perspective": "user"
+}

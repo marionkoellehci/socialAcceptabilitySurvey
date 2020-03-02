@@ -1,0 +1,16 @@
+{
+"year":"2015",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"gestural input for smart glasses",
+"study_type":"field experiment; elicitation study",
+"study_setting":"field",
+"study_environment":"coffee shop; starbucks",
+"study_stimulus":"demostration",
+"demonstration_type":"hands-on",
+"measure_types":"objective",
+"measure":"video coding",
+"questionnaire_type":"none",
+"questionnaire":"none",
+"perspective":"user"
+}

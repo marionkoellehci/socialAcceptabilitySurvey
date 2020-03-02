@@ -1,0 +1,16 @@
+{
+"year":"2018",
+"paper_type":"extended abstract",
+"contribution_type":"empirical",
+"use_cases":"assistive devices; aerial vehicles",
+"study_type":"field experiment",
+"study_setting":"online; field; lab",
+"study_environment":"food court in a mall; outdoor urban park; college building",
+"study_stimulus":"prototype",
+"demonstration_type":"researcher; hands-on",
+"measure_types":"subjective; qualitative",
+"measure":"interview",
+"questionnaire_type":"open-ended",
+"questionnaire":"self-defined",
+"perspective": "user; spectator"
+}

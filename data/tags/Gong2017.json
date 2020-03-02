@@ -1,0 +1,16 @@
+{
+"year":"2017",
+"paper_type":"paper",
+"contribution_type":"artifact",
+"use_cases":"actuated smart watch",
+"study_type":"survey",
+"study_setting":"lab",
+"study_environment":"",
+"study_stimulus":"animation; prototype",
+"demonstration_type":"none",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; inteview",
+"questionnaire_type":"multi-item; open-ended",
+"questionnaire":"audience-and-location",
+"perspective": "user"
+}

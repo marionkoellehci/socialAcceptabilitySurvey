@@ -1,0 +1,16 @@
+{
+"year":"2008",
+"paper_type":"paper",
+"contribution_type":"artifact",
+"use_cases":"textile input; public scenarios",
+"study_type":"lab experiment; field experiment",
+"study_setting":"field; lab",
+"study_environment":"café; lab",
+"study_stimulus":"prototype; demostration",
+"demonstration_type":"hands-on",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"interview",
+"questionnaire_type":"open-ended",
+"questionnaire":"self-defined",
+"perspective": "user"
+}

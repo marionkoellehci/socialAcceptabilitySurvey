@@ -1,0 +1,16 @@
+{
+"year":"2011",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"gestural interaction; mobile gaming",
+"study_type":"field survey",
+"study_setting":"field",
+"study_environment":"daily commute",
+"study_stimulus":"prototype; demostration",
+"demonstration_type":"hands-on",
+"measure_types":"objective; subjective; qualitative",
+"measure":"questionnaire; interview; usage data",
+"questionnaire_type":"",
+"questionnaire":"self-defined",
+"perspective":"user"
+}

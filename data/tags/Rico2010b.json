@@ -1,0 +1,16 @@
+{
+"year":"2010",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"gestural interaction",
+"study_type":"lab experiment; survey; field experiment",
+"study_setting":"online; field; lab",
+"study_environment":"university room (private) busy street/pavement (public)",
+"study_stimulus":"video; demostration",
+"demonstration_type":"hands-on",
+"measure_types":"subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"multiple choice; open-ended",
+"questionnaire":"audience-and-location; self-defined",
+"perspective": "user"
+}

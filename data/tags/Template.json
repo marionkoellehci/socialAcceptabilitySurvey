@@ -1,0 +1,16 @@
+{
+"year":"",
+"paper_type":"",
+"contribution_type":"empirical; artifact; method; theory; dataset; survey; opinion",
+"use_cases":"",
+"study_type":"lab experiment; survey; field experiment; field survey; field ethnography; focus group; elicitation study",
+"study_setting":"online; field; lab",
+"study_environment":"",
+"study_stimulus":"video; animation; still images; prototype; demostration; none",
+"demonstration_type":"researcher; peers; hands-on; none",
+"measure_types":"objective; subjective; qualitative; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"single-item; multi-item; open-ended; multiple choice; semantic differential",
+"questionnaire":"audience-and-location; WEAR-scale; I-PANAS-SF; PANAS; interaction-user-device; self-defined",
+"perspective":"user; spectator; undefined"
+}

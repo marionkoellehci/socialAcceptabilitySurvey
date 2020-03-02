@@ -1,0 +1,16 @@
+{
+"year":"2015",
+"paper_type":"paper",
+"contribution_type":"empirical",
+"use_cases":"public displays",
+"study_type":"lab experiment",
+"study_setting":"lab",
+"study_environment":"video editing lab (private), open space outside an auditorium",
+"study_stimulus":"prototype; demostration",
+"demonstration_type":"hands-on",
+"measure_types":"subjective; quantitative",
+"measure":"questionnaire; interview",
+"questionnaire_type":"multi-item",
+"questionnaire":"I-PANAS-SF; self-defined",
+"perspective":"user; spectator"
+}
