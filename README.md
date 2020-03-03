@@ -13,16 +13,16 @@ The analysis (and tagged dataset) comprises papers that meet the following inclu
 2. The work (a) contains a formal or informal evaluation or measurement of social acceptability, or (b) names social acceptability as design goal for a presented prototype or interface, or (c) names design recommendations for socially acceptable interfaces. 
 3. The work covers the social acceptability (from user and/or spectator perspective) of a user's interaction with a system, interface or technology.
 
-### Tagging Scheme
-
-We provide information on the tagging scheme at https://github.com/marionkoellehci/socialAcceptabilitySurvey/wiki/Dataset. The tagging scheme does not cover all aspects analyzed in the 2020 CHI paper. The provided tags mostly focus on research methods, and aim to map future changes in the choice of methods over an extended period of time.
-
 ### Analyzed Papers as Tagged Dataset
 
 We provide the set of analyzed papers as tagged dataset, following the example of Frederik Brudy's [Cross-device Taxonomy Dataset](https://github.com/frederikbrudy/cross-device-taxonomy/); so that it could be used along with [PaperTag](https://github.com/christianholz/papertag/).
 
 All bibtex data is located at `data/bibtex` and organized into one file for works comprised by the 2020 CHI paper, and one including continous updates. The corresponding tags (one file per paper) are located at
 `data/tags`. So far, not all aspects covered by the CHI 2020 paper are included as tags. Tags currently cover methods and measures; Design strategies might be added at a later point.
+
+### Tagging Scheme
+
+We provide information on the tagging scheme at https://github.com/marionkoellehci/socialAcceptabilitySurvey/wiki/Dataset. The tagging scheme does not cover all aspects analyzed in the 2020 CHI paper. The provided tags mostly focus on research methods, and aim to map future changes in the choice of methods over an extended period of time.
 
 ## Contact
 
